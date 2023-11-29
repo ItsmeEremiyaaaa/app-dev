@@ -1,9 +1,9 @@
 # app-dev
 My first repository.
 
-## **Favorite Movie:** Blade Runner 2049
+## **Favorite Movie:** *Blade Runner 2049*
 
-## **Movie Description:** Blade Runner 2049 is a visually stunning science fiction film directed by Denis Villeneuve. Released in 2017, it serves as a sequel to the 1982 cult classic "Blade Runner," directed by Ridley Scott. The film is set in a dystopian future and explores themes of identity, humanity, and the consequences of playing god.
+## **Movie Description:** *Blade Runner 2049 is a visually stunning science fiction film directed by Denis Villeneuve. Released in 2017, it serves as a sequel to the 1982 cult classic "Blade Runner," directed by Ridley Scott. The film is set in a dystopian future and explores themes of identity, humanity, and the consequences of playing god.*
 
 ## **Genre**
 - Drama
