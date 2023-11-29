@@ -23,4 +23,7 @@ My first repository.
 | **Lt. Joshi**    | Robin Wright     | Supporting      |
 | **Mariette**     | Mackenzie Davis  | Supporting      |
 
+
+### **The Key Reasons it's my Favorite:** *The movie emphasizes the future of technology. As a person who studies this kind of concept, the film shows the consequences of technological advancement on the identity of humanity. It also portrays the cinematographic essence of a real future cyberpunk. The visuals, story, and philosophical depth make the movie a masterpiece.*
+
 ### **Movie Source:** 	[Blade Runner 2049](https://www.imdb.com/title/tt1856101/)
